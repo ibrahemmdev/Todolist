@@ -1,7 +1,3 @@
-Here’s the updated README with your `.env` structure:  
-
----
-
 # To-Do List API
 
 This project is a **To-Do List API** built using **Node.js** and **Express.js**. It provides user authentication (login and registration) and supports full CRUD operations for managing tasks.
